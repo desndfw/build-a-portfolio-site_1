@@ -1,0 +1,29 @@
+#row1 {
+  padding-top: 25px;
+  border-bottom: 3px solid #bcbbbb;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+.label {
+  color: #747704;
+} /*font properties for name, title and project names*/
+#name {
+  font-family: sans-serif;
+  font-size: 48px;
+  margin-bottom: -15px;
+  position: relative;
+  margin-right: -15px;
+}
+#title {
+  margin-right: -15px;
+}
+h2 {
+  color: #bcbbbb;
+  padding-left: 5px;
+}
+a {
+  color: #747704;
+}
+p {
+  margin-top: -5px;
+}
